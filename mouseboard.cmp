@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = Thu 06 Nov 2014 12:16:09 AM PST
+
+BeginCmp
+TimeStamp = /5451E643;
+Reference = C1;
+ValeurCmp = 0.33uF_0603;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54586D1D;
+Reference = C2;
+ValeurCmp = 0.33uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5451EB55;
+Reference = C3;
+ValeurCmp = 0.33uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54586D24;
+Reference = C4;
+ValeurCmp = 0.047uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54587CDD;
+Reference = C5;
+ValeurCmp = 0.33uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5451EEDF;
+Reference = C6;
+ValeurCmp = 0.047uF_0805;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5451EC49;
+Reference = C7;
+ValeurCmp = 0.33uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54587AC0;
+Reference = C8;
+ValeurCmp = 0.33uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5459BE04/5459CB61;
+Reference = COMMUNICATION2;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5450A386;
+Reference = J1;
+ValeurCmp = DB9_FEMALE__TO_CPU;
+IdModule  = Connect:DB9FC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5450A3F5;
+Reference = J2;
+ValeurCmp = DB9_MALE__TO_MOUSE;
+IdModule  = Connect:DB9MC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5459BE04/5459CB44;
+Reference = JP6;
+ValeurCmp = CONN_01X10;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5459BE04/5459CB53;
+Reference = POWER1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5450CBCC;
+Reference = SW1;
+ValeurCmp = 8PDT;
+IdModule  = sw:8PDT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5450BC13;
+Reference = U1;
+ValeurCmp = SP3238E;
+IdModule  = SMD_Packages:TSSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /5450BC4A;
+Reference = U2;
+ValeurCmp = SP3243E;
+IdModule  = SMD_Packages:TSSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /5459BE04/5459CB4B;
+Reference = XIO1;
+ValeurCmp = CONN_02X18;
+IdModule  = 2x18;
+EndCmp
+
+EndListe

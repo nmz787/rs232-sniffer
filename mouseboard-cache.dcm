@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP3243E
+D GND
+K RS232
+$ENDCMP
+#
+#End Doc Library
